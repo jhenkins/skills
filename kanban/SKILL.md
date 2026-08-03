@@ -1,9 +1,8 @@
 ---
 name: "Kanban"
 version: 1.0.0
-description: Build multi-project Kanban systems with deterministic board discovery, consistent task processing, and persistent routing memory across sessions.
-changelog: Initial release with project routing, board templates, and deterministic Kanban processing rules.
-metadata: {"clawdbot":{"emoji":"📋","requires":{"bins":[]},"os":["linux","darwin","win32"]}}
+description: "Build multi-project Kanban systems with deterministic board discovery, consistent task processing, and persistent routing memory across sessions."
+changelog: "Initial release with project routing, board templates, and deterministic Kanban processing rules."
 ---
 
 ## Setup
