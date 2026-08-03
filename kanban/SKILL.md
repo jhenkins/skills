@@ -1,8 +1,6 @@
 ---
-name: Kanban
-slug: kanban
+name: "Kanban"
 version: 1.0.0
-homepage: https://clawic.com/skills/kanban
 description: Build multi-project Kanban systems with deterministic board discovery, consistent task processing, and persistent routing memory across sessions.
 changelog: Initial release with project routing, board templates, and deterministic Kanban processing rules.
 metadata: {"clawdbot":{"emoji":"📋","requires":{"bins":[]},"os":["linux","darwin","win32"]}}
@@ -113,7 +111,3 @@ Install with `clawhub install <slug>` if user confirms:
 - `delegate` - owner assignment and task handoff protocols
 - `daily-planner` - daily planning and task sequencing
 
-## Feedback
-
-- If useful: `clawhub star kanban`
-- Stay updated: `clawhub sync`
